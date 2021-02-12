@@ -9,3 +9,4 @@ Enable uPnP service on the gateway.
 
 # Notice
 1) Make sure to limit the host range for security reasons.
+2) The miniupnpd daemon requires manual start after the server reboots.
